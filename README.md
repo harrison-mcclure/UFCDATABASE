@@ -3,7 +3,7 @@
   We're Using Chat
 ## Team Members:
 * Benjamin Brown - https://github.com/bdb12838
-* Matthew Burt 
+* Matthew Burt - https://github.com/matthewburt915
 * Jared Eidson - https://github.com/jke99240
 * Harrison Mcclure - https://github.com/Harrison-mcclure
 * John Overstreet - 
